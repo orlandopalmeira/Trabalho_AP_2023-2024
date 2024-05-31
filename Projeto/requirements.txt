@@ -1,0 +1,10 @@
+# Command to install all the dependencies: pip install -r requirements.txt
+transformers
+gradio
+gradio_client
+sentencepiece
+sacremoses
+datasets
+evaluate
+sacrebleu
+ipywidgets
