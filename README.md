@@ -15,7 +15,7 @@
 
 </div>
 
-### Nota: X/20
+### Nota: 16.4/20
 
 <h3><i>Keywords</i></h3>
 AP, Aprendizagem Profunda, aprendizagem profunda, deep learning, uminho, miei, mei, engenharia informatica
